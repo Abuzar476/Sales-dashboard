@@ -15,3 +15,5 @@ python -m streamlit run app.py
 Upload CSV, select columns, pick currency, click Generate Dashboard
 
 The dataset used to test this is the largest dataset of e-commerce sale in pakistan. However, you can use any other dataset you want to.
+
+https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
